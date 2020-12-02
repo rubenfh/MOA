@@ -1,0 +1,10 @@
+tensorflow
+tensorboard
+tensorflow_addons
+tensorflow_docs
+git+https://github.com/tensorflow/docs
+sklearn
+pandas
+numpy
+IPython
+matplotlib 
